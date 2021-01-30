@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Happy Film</string>
+
+    <string name="bahasa_asal">Bahasa Asli</string>
+    <string name="change_language_settings">Pengaturan Bahasa</string>
+    <string name="failure">Kegagalan</string>
+    <string name="tab_movies">Film</string>
+    <string name="tab_tv_shows">Acara Tv</string>
+    <string name="tanggal_rilis">Tanggal Rilis</string>
+    <string name="title">Judul</string>
+    <string name="title_activity_main">Katalog Film</string>
+    <string name="vote">Vote</string>
+</resources>
